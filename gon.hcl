@@ -1,14 +1,14 @@
-source = [
-  "./dist/gitstat-macos_darwin_amd64/gitstat"]
+source = ["./dist/gitstat-macos_darwin_amd64_v1/gitstat"]
 bundle_id = "com.gitstat"
 
 apple_id {
-  username = "niels@kryger.nl"
+  username = "emaillavender@gmail.com"
   password = "@env:AC_PASSWORD"
 }
 
+
 sign {
-  application_identity = "Developer ID Application: Niels Krijger"
+  application_identity = "QD39L6V859"
 }
 
 zip {

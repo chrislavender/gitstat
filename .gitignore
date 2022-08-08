@@ -2,3 +2,6 @@ gitstat
 *.csv
 dist
 gitstat_result.json
+
+.DS_Store
+.vscode
