@@ -4,6 +4,7 @@ bundle_id = "com.gitstat"
 apple_id {
   username = "emaillavender@gmail.com"
   password = "@env:AC_PASSWORD"
+  provider = "ChristopherLavender78787239"
 }
 
 
